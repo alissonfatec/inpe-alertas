@@ -5,6 +5,7 @@ on:
  pull_request:
  branches: [ dev ]
 jobs:
+ foo: #
  build:
  runs-on: ubuntu-latest
  steps:
