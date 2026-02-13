@@ -15,4 +15,4 @@ jobs:
  with:
  node-version: 20
  - name: Teste de funcionamento
- run: echo "CI funci
+ run: echo "CI funcionando!"
