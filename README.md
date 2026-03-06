@@ -4,3 +4,5 @@ tempo real.
 
 
 CI/CD configurado na Aula 3
+
+Testando CI/CD na Aula 4
